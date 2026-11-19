@@ -1,0 +1,1466 @@
+{
+  "format": "pulseqa",
+  "version": 1,
+  "exportedAt": "2026-11-19T14:03:46.474Z",
+  "tests": [
+    {
+      "createdAt": 1795095579228,
+      "id": "t_mwnlk5lof1xmj7",
+      "info": {
+        "description": "",
+        "preconditions": "",
+        "testData": "",
+        "expected": "",
+        "tags": "",
+        "priority": "Medium",
+        "notes": ""
+      },
+      "lastRun": {
+        "at": 1795095901057,
+        "status": "pass",
+        "results": {
+          "s_mwnllduskamjaq": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllihc4w2s1n": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllihu71jyyo": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllj5hbeybvh": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlljv4n7gdet": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlllkjb6rf5l": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllm1j9urzwb": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllm479sn2u9": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllpgtjm7bgk": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllpqgpgn4dz": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllupvw9opxj": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllw6ksn0wci": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllxc9atepmx": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllxcjcznm1h": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnllysakdi8lf": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm070my22dp": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm3461pos80": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm351t1p2fk": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm35t0r37kk": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm48vto4c3k": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm4i807pc62": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm5meutqczy": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm5ncdt1a4g": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlm7ubhqib22": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmai40juwvj": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmcjilzugrr": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmckuzb6w3p": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmebmwsdmhn": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmgjivmhhj9": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmh5wltlknf": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmicbfm0i5d": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmkil5ybnnx": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmljyecy325": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmn45trwpih": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmr6kdwdm0c": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmrv193ur41": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmrwv54nhbi": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmszm3er5kd": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmvc11g85n1": {
+            "status": "warn",
+            "msg": "Selected locator failed; passed with css=button.MuiButton-text.MuiButton-textPrimary:nth-of-type(3)"
+          },
+          "s_mwnlmwt2tl1tom": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnlmy45gsjvo0": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnln1jhyui9uh": {
+            "status": "pass",
+            "msg": ""
+          },
+          "s_mwnln9u9xweori": {
+            "status": "pass",
+            "msg": ""
+          }
+        },
+        "from": 0
+      },
+      "name": "My first test",
+      "steps": [
+        {
+          "id": "s_mwnllduskamjaq",
+          "cmd": "open",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnllihc4w2s1n",
+          "cmd": "type",
+          "locators": [
+            {
+              "type": "id",
+              "value": "email"
+            },
+            {
+              "type": "name",
+              "value": "email"
+            },
+            {
+              "type": "xpath",
+              "value": "//input[@id='email']"
+            },
+            {
+              "type": "xpath",
+              "value": "//input[@name='email']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div[2]/div/div/form/div[1]/div/input"
+            },
+            {
+              "type": "css",
+              "value": "div.MuiFormControl-marginNormal.MuiFormControl-fullWidth:nth-of-type(1) > div.MuiInputBase-colorPrimary.MuiInputBase-fullWidth > input.MuiInputBase-input.MuiOutlinedInput-input"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div[2]/div/div/form/div[1]/div/input"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "shweta967@gmail.com",
+          "label": "Email ID *",
+          "kind": "field",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnllipvc7uaur",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnllihu71jyyo",
+          "cmd": "type",
+          "locators": [
+            {
+              "type": "id",
+              "value": "password"
+            },
+            {
+              "type": "name",
+              "value": "password"
+            },
+            {
+              "type": "xpath",
+              "value": "//input[@id='password']"
+            },
+            {
+              "type": "xpath",
+              "value": "//input[@name='password']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div[2]/div/div/form/div[2]/div/input"
+            },
+            {
+              "type": "css",
+              "value": "div.MuiFormControl-marginNormal.MuiFormControl-fullWidth:nth-of-type(2) > div.MuiInputBase-colorPrimary.MuiInputBase-fullWidth > input.MuiInputBase-input.MuiOutlinedInput-input"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div[2]/div/div/form/div[2]/div/input"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "Dhakar@1234",
+          "label": "Password *",
+          "kind": "field",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnllj8q3ruwgx",
+          "enabled": true,
+          "customDesc": "",
+          "secret": true
+        },
+        {
+          "id": "s_mwnllj5hbeybvh",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "id",
+              "value": "signInButton"
+            },
+            {
+              "type": "xpath",
+              "value": "//button[@id='signInButton']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div[2]/div/div/div[2]/div[2]/button"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiIconButton-sizeMedium.jss8"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div[2]/div/div/div[2]/div[2]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "signInButton",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlljvuy6xd3k",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlljv4n7gdet",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/dsp",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/dsp",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlllkjb6rf5l",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "css",
+              "value": "div:nth-of-type(2) > button.MuiIconButton-sizeMedium"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/dsp",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlllpx94xfnj",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnllm1j9urzwb",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/dashboard",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/dashboard",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnllm479sn2u9",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/dashboard?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/dashboard?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnllpgtjm7bgk",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Next']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[2]/div/div[1]/div[2]/button"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(2) > button.MuiButton-contained.MuiButton-containedPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div[2]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Next",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/dashboard?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnllpmwee2lg1",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnllpqgpgn4dz",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/Workflow/new_users?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Workflow/new_users?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnllupvw9opxj",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/workflow?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnllw6ksn0wci",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "css",
+              "value": "[aria-label=\"Profile\"]"
+            },
+            {
+              "type": "xpath",
+              "value": "//button[@aria-label='Profile']"
+            },
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Shweta']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[1]/div[2]/div/button"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(2) > div > button.MuiButton-text.MuiButton-textPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[1]/div[2]/div/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Profile",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnllwdnie44cf",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnllxc9atepmx",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//li[normalize-space()='Settings']"
+            },
+            {
+              "type": "xpath",
+              "value": "//ul[@role='menu']/li[2]"
+            },
+            {
+              "type": "css",
+              "value": "li.MuiMenuItem-gutters:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[3]/div[3]/ul/li[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Settings",
+          "kind": "menu item",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnllxkfo4f0x3",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnllxcjcznm1h",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/settings",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/settings",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnllysakdi8lf",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//p[normalize-space()='Bulk Message Settings']"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(4) > p.MuiTypography-body1"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div/div[1]/div[2]/div[2]/div[4]/p"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Bulk Message Settings",
+          "kind": "text",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/settings",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnllz1kaen6s9",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlm070my22dp",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//div[normalize-space()='Paycom & Dispatch Report']"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Paycom & Dispatch Report",
+          "kind": "element",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/settings",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlm0dbbpllur",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlm3461pos80",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='WorkFlow']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[1]/div[1]/div[2]/button"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(2) > button.MuiButton-text.MuiButton-textPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[1]/div[1]/div[2]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "WorkFlow",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/settings",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlm3eypiz0me",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlm351t1p2fk",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/WorkFlow",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/WorkFlow",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlm35t0r37kk",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/WorkFlow?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/WorkFlow?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlm48vto4c3k",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Next']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[2]/div/div[1]/div[2]/button"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(2) > button.MuiButton-contained.MuiButton-containedPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div[2]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Next",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/WorkFlow?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlm4eltat3po",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlm4i807pc62",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/Workflow/new_users?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Workflow/new_users?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlm5meutqczy",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Next']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[2]/div/div[1]/div[2]/button[3]"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-outlined.MuiButton-outlinedPrimary:nth-of-type(3)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div[2]/button[3]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Next",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Workflow/new_users?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlm5tmwj1d3j",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlm5ncdt1a4g",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/workflow/compare_table?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/compare_table?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlm7ubhqib22",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "css",
+              "value": "[aria-label=\"Close\"]"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@aria-label='Close']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@role='presentation']/div[3]/div[1]/div"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(1) > div"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[3]/div[3]/div[1]/div"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Close",
+          "kind": "element",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/compare_table?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlm7ztsi8ku5",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmai40juwvj",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "(//button[normalize-space()='View Report'])[2]"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(5) > div:nth-of-type(2) > button.MuiButton-contained.MuiButton-containedPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[4]/div[3]/div[5]/div[2]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "View Report",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/compare_table?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmanjds56od",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmcjilzugrr",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Next']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/button[4]"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-text.MuiButton-textPrimary:nth-of-type(4)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/button[4]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Next",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/compare_table?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmcqes2v31b",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmckuzb6w3p",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlmebmwsdmhn",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Compared with Paycom and service report']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@role='tablist']/button[1]"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiTab-textColorPrimary:nth-of-type(1)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div[2]/div[1]/div/div/button[1]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "COMPARED WITH PAYCOM AND SERVICE REPORT",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmeqaav1msj",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmgjivmhhj9",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Send']"
+            },
+            {
+              "type": "xpath",
+              "value": "//span[@aria-label='Bulk Message for Alerts like Missing In Day / Out Day / Both']/button"
+            },
+            {
+              "type": "css",
+              "value": "span > button.MuiButton-text.MuiButton-textPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/span/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Send",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmgs0mgrgz1",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmh5wltlknf",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//li[normalize-space()='Send Manually']"
+            },
+            {
+              "type": "xpath",
+              "value": "//ul[@role='menu']/li[1]"
+            },
+            {
+              "type": "css",
+              "value": "li.MuiMenuItem-gutters:nth-of-type(1)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[3]/div[3]/ul/li[1]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Send Manually",
+          "kind": "menu item",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmhhbvz60c6",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmicbfm0i5d",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//div[normalize-space()='Amazon Flex - Missing Day In']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@role='presentation']/div[3]/div[2]/div[1]/div[1]/div"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Amazon Flex - Missing Day In",
+          "kind": "element",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmikpb1hvyr",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmkil5ybnnx",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//li[normalize-space()='Amazon Flex - Missing on TimeDetail']"
+            },
+            {
+              "type": "xpath",
+              "value": "//ul[@role='menu']/li[8]"
+            },
+            {
+              "type": "css",
+              "value": "li.MuiMenuItem-gutters:nth-of-type(8)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[4]/div[3]/ul/li[8]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Amazon Flex - Missing on TimeDetail",
+          "kind": "menu item",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmku75oujmo",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmljyecy325",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Send to All Drivers']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@role='presentation']/div[3]/div[3]/button[2]"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-contained.MuiButton-containedPrimary:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[3]/div[3]/div[3]/button[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Send To All Drivers",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmlt03kuq64",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmn45trwpih",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Yes, Send']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@role='dialog']/div[2]/button[2]"
+            },
+            {
+              "type": "css",
+              "value": "div.MuiDialogActions-spacing:nth-of-type(2) > button.MuiButton-contained.MuiButton-containedPrimary:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[4]/div[3]/div/div[2]/button[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Yes, Send",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmnc2ua06p9",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmr6kdwdm0c",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Cancel']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@role='presentation']/div[3]/div[3]/button[1]"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(3) > div:nth-of-type(3) > button.MuiButton-text.MuiButton-textPrimary:nth-of-type(1)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[3]/div[3]/div[3]/button[1]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Cancel",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmrh8lpwnmy",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmrv193ur41",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='20Chat']"
+            },
+            {
+              "type": "xpath",
+              "value": "//div[@id='root']/div[2]/div/div[1]/div[1]/div[5]/button"
+            },
+            {
+              "type": "css",
+              "value": "div:nth-of-type(5) > button.MuiButton-text.MuiButton-textPrimary"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[1]/div[1]/div[5]/button"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "20 Chat",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/workflow/FinalTablePaycom?date=11-19-2026",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlms8s9ef6dl",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmrwv54nhbi",
+          "cmd": "navigated",
+          "locators": [],
+          "selIdx": 0,
+          "frames": [],
+          "value": "https://staging.payroll.lmdmax.com/Chat",
+          "label": "",
+          "kind": "",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": null,
+          "enabled": true,
+          "customDesc": ""
+        },
+        {
+          "id": "s_mwnlmszm3er5kd",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Drivers']"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-text.MuiButton-textPrimary:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[2]/button[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Drivers",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmt71cl6cgm",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmvc11g85n1",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Unregistered1']"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-text.MuiButton-textPrimary:nth-of-type(3)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[2]/button[3]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Unregistered 1",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass — Selected locator failed; passed with css=button.MuiButton-text.MuiButton-textPrimary:nth-of-type(3)",
+          "shotId": "i_mwnlmvoicx1pdg",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmwt2tl1tom",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Drivers']"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-text.MuiButton-textPrimary:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[2]/button[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Drivers",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmy5o8k9f1m",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnlmy45gsjvo0",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "//button[normalize-space()='Drivers']"
+            },
+            {
+              "type": "css",
+              "value": "button.MuiButton-text.MuiButton-textPrimary:nth-of-type(2)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[2]/button[2]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "Drivers",
+          "kind": "button",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlmyiaevknfe",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnln1jhyui9uh",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "css",
+              "value": "li.MuiMenuItem-gutters:nth-of-type(1)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[2]/div/div[1]/div/div[3]/li[1]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "VA Victor Azeh Hi Victor Azeh, This is the PAYA12121 Payr…",
+          "kind": "menu item",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnln2w4f3cs7p",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        },
+        {
+          "id": "s_mwnln9u9xweori",
+          "cmd": "click",
+          "locators": [
+            {
+              "type": "xpath",
+              "value": "(//div[normalize-space()='VAVictor Azeh'])[1]"
+            },
+            {
+              "type": "css",
+              "value": "div.MuiGrid-item:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)"
+            },
+            {
+              "type": "xpath",
+              "value": "/html/body/div[1]/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div[1]"
+            }
+          ],
+          "selIdx": 0,
+          "frames": [],
+          "value": "",
+          "label": "VA Victor Azeh",
+          "kind": "element",
+          "note": "",
+          "url": "https://staging.payroll.lmdmax.com/Chat",
+          "expected": "",
+          "actual": "Pass",
+          "shotId": "i_mwnlna0mmyj706",
+          "enabled": true,
+          "customDesc": "",
+          "secret": false
+        }
+      ],
+      "updatedAt": 1795095901057
+    }
+  ]
+}
